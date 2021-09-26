@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Mohnish, I have been a Software Engineering Intern @Linkedin <img width="18" height="18" alt="LinkedIn" src="./linkedin.png"/> aninkd HappyCode(Startup).
+I am Mohnish, I have been a Software Engineering Intern @Linkedin <img width="18" height="18" alt="LinkedIn" src="./linkedin.png"/> and HappyCode(Startup).
 I like developing and deploying software. My linkedin Profile ![link](https://www.linkedin.com/in/mohnish-satidasani-224204191/).
 In my leisure time I become a piano player and watch harry potter movies.
 
 🔭 I’m currently working on improving my low level design and Machine Coding skills
 - 🌱 I’m currently learning Javascript and following Mosh and ![You Don't Know Js](https://github.com/getify/You-Dont-Know-JS) repository
-- 👯 I’m looking to collaborate for Software Engineering Internship Opportunities (6 months)
+- 👯 I’m looking to collaborate for Software Engineering Internship Opportunities (6 months).
 
 My Dev Skills Summarized.
 - :man_technologist: Code: HTML, CSS, JavaScript, Node.js, C++, Java, Flask , Javascript, Linux and Python.
