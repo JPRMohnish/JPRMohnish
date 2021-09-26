@@ -20,7 +20,7 @@ I like developing and deploying software. My linkedin Profile ![link](https://ww
 In my leisure time I become a piano player and watch harry potter movies.
 
 🔭 I’m currently working on improving my low level design and Machine Coding skills
-- 🌱 I’m currently learning Javascript and following Mosh and ![You Don't Know Js](https://github.com/getify/You-Dont-Know-JS) repository
+- 🌱 I’m currently learning Javascript and following  ![You Don't Know Js](https://github.com/getify/You-Dont-Know-JS) repository
 - 👯 I’m looking to collaborate for Software Engineering Internship Opportunities (6 months).
 
 My Dev Skills Summarized.
