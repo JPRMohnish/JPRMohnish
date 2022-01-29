@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 I am Mohnish, I have been a Software Engineering Intern @Linkedin <img width="18" height="18" alt="LinkedIn" src="./linkedin.png"/> and HappyCode(Startup).
-I like developing and deploying software. My linkedin Profile ![link](https://www.linkedin.com/in/mohnish-satidasani-224204191/).
+I like developing and deploying software. My linkedin Profile [link](https://www.linkedin.com/in/mohnish-satidasani-224204191/) 
 In my leisure time I become a piano player and watch harry potter movies.
 
 🔭 I’m currently working on improving my low level design and Machine Coding skills
-- 🌱 I’m currently learning Javascript and following  ![You Don't Know Js](https://github.com/getify/You-Dont-Know-JS) repository
+- 🌱 I’m currently learning Javascript and following  [You Don't Know Js](https://github.com/getify/You-Dont-Know-JS) repository
 - 👯 I’m looking to collaborate for Software Engineering Internship Opportunities (6 months).
 
 My Dev Skills Summarized.
@@ -31,7 +31,7 @@ My Dev Skills Summarized.
 - 🌺 Styling: BootStrap, Material UI, Vuetify.
 - DB: MongoDb, MySQL.
 - 📊 Others: Integration , Unit and Acceptance Testing.
-- ![Resume Doc](https://docs.google.com/document/d/1yzodndFq3kuTblRtu9_dBPRY5frWunNMA6N1pzx7aKY/edit)
+- [Resume Doc](https://docs.google.com/document/d/1yzodndFq3kuTblRtu9_dBPRY5frWunNMA6N1pzx7aKY/edit)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?tab=repositories&url=https%3A%2F%2Fgithub.com%2FJPRMohnish&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
